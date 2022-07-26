@@ -1,4 +1,4 @@
-#加入某动画游戏服务器的教程
+****加入某动画游戏服务器的教程****
 
 版本2.8
 
@@ -19,8 +19,7 @@ ip `s1.hzdz.xyz` port `444`
 
 **安卓**
 ---
-修改hosts文件
-自行解析s1.hzdz.xyz获取ip
+暂不支持 可以学习使用mitm重定向流量 _zzz_
 ```shell
 dispatchosglobal.yuanshen.com -> (redirect to the server host)
 dispatchcnglobal.yuanshen.com -> (redirect to the server host)
